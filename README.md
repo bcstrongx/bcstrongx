@@ -1,4 +1,4 @@
-Member of Technical Staff at Rivos Inc
+Member of Technical Staff at Meta
 
 <!---
 bcstrongx/bcstrongx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
